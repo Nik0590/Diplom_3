@@ -1,0 +1,12 @@
+PageObject/RecoverPage.class
+Client/User.class
+Client/UserClient.class
+PageObject/ProfilePage.class
+Client/User$UserBuilder.class
+PageObject/RegistrationPage.class
+PageObject/LoginPage.class
+PageObject/ResetPasswordPage.class
+Client/RestAssuredClient.class
+Client/UserCredentials.class
+Client/UserCredentials$UserCredentialsBuilder.class
+PageObject/MainPage.class
